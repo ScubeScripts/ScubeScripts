@@ -4,8 +4,13 @@
 - 💞️ You want more from me? Visit my Store [Tebex](https://scube.tebex.io/)
 - 📫 You also can contact me via Discord [Scube](https://discord.com/invite/bdRt9HJ55j) 
 
-## Skills
+## My Skills
 
 - 🐍 Python
 - 🔆 HTML / CSS
 - 🖥️ Javascript / Lua
+
+## Social Media
+- [Discord](https://discord.com/invite/bdRt9HJ55j) 
+- [Cfx-Community](https://forum.cfx.re/u/scubescripts/)
+- [Tebex](https://scube.tebex.io/)
