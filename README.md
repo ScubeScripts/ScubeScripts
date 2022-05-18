@@ -11,6 +11,6 @@
 - 🖥️ Javascript / Lua
 
 ## Social Media
-- 🎤 [Discord](https://discord.com/invite/bdRt9HJ55j) 
+- 🎤 [Discord](https://discord.gg/GAmWAXexvV) 
 - 📃 [Cfx-Community](https://forum.cfx.re/u/scubescripts/)
 - 🛒 [Tebex](https://scube.tebex.io/)
