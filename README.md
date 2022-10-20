@@ -17,6 +17,6 @@
 
 ## Paid Projects FiveM
 
-- [ ] Weaponshop
+- [x] Weaponshop
 - [ ] Bowling
 - [ ] Minimalistic HUD-UI
