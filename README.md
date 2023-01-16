@@ -1,4 +1,4 @@
-# I'm Scube | Developer behind Live-V 
+# I'm Scube
 
 - 🌱 I’m currently working on an Bowling Script for [FiveM](https://fivem.net/).
 - 💞️ You want more from me? Visit my Store [Tebex](https://scube.tebex.io/).
