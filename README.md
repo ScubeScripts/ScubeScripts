@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently working on an Bowling Script for [FiveM](https://fivem.net/).
 - 💞️ You want more from me? Visit my Discord Serer [Discord](https://discord.gg/Mqgewse3Yc).
-- 📫 You also can contact me via Discord [Scube](https://discord.com/invite/bdRt9HJ55j).
 
 ## My Skills
 
@@ -11,12 +10,11 @@
 - 🖥️ Javascript / Lua
 
 ## Social Media
-- 🎤 [Discord](https://discord.gg/GAmWAXexvV) 
+- 🎤 [Discord](https://discord.gg/Mqgewse3Yc) 
 - 📃 [Cfx-Community](https://forum.cfx.re/u/scubescripts/)
-- 🛒 [Tebex](https://scube.tebex.io/)
 
 ## Paid Projects FiveM
 
-- [x] Weaponshop
+- [ ] Weaponshop
 - [ ] Bowling
 - [ ] Minimalistic HUD-UI
