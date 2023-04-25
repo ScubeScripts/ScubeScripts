@@ -1,7 +1,7 @@
 # I'm Scube
 
 - 🌱 I’m currently working on an Bowling Script for [FiveM](https://fivem.net/).
-- 💞️ You want more from me? Visit my Store [Tebex](https://scube.tebex.io/).
+- 💞️ You want more from me? Visit my Discord Serer [Discord](https://discord.gg/Mqgewse3Yc).
 - 📫 You also can contact me via Discord [Scube](https://discord.com/invite/bdRt9HJ55j).
 
 ## My Skills
