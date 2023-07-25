@@ -1,6 +1,6 @@
 # I'm Scube
 
-- 🌱 I’m currently revising ESX legacy scripts for [FiveM](https://fivem.net/).
+- 🌱 I’m currently revising ESX Legacy scripts for [FiveM](https://fivem.net/).
 - 💞️ You want more from me? Visit my Discord Server [Discord](https://discord.gg/Mqgewse3Yc).
 
 ## My Skills
