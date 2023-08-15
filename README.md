@@ -16,4 +16,4 @@
 ## My Paid Projects
 
 - [ ] Modern Weaponshop
-- [ ] Minimalistic HUD-UI
+- [x] Minimalistic HUD-UI
