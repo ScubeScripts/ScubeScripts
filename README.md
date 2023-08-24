@@ -16,4 +16,10 @@
 ## My Paid Projects
 
 - [ ] Modern Weaponshop
+- [ ] Modern Property
+ 
+## My FREE Projects
+
 - [x] Minimalistic HUD-UI
+- [x] Phone Taxes
+- [x] Animated NPC
