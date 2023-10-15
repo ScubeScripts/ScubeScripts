@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on getting my shit together.
 - 🔮 What do I do? - Predict the future via computer science black magic.
 - 🌱 I am currently working on several projects, mainly scripts for FiveM
-- 👯 I’m looking to collaborate on Machine Learning, Java and Web Development related projects.
+- 👯 I am looking for good series.
 - 📫 How to reach me: [Via Discord](https://discord.gg/Mqgewse3Yc)
 - ⚡ Fun fact: If the code works, don't touch it again.
 - 📚 4 Words that best sum me up: Music, Series, Chaos, Memes.
