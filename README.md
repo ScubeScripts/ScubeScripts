@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on getting my shit together.
 - 🔮 What do I do? - Predict the future via computer science black magic.
-- 🌱 I’m currently learning to use reinforcement learning in real life to control mechanical 
-      conveyances for transporting people or goods...basically, I'm learning how to drive. 
+- 🌱 I am currently working on several projects, mainly scripts for FiveM
 - 👯 I’m looking to collaborate on Machine Learning, Java and Web Development related projects.
 - 📫 How to reach me: [Via Discord](https://discord.gg/Mqgewse3Yc)
 - ⚡ Fun fact: If the code works, don't touch it again.
