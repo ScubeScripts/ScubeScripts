@@ -28,9 +28,8 @@ const scubescripts = {
         },
         backEnd: {
             python: ["flask"],
-            java: ["JSP"]
+            java: ["JS"]
         },
-        devOps: ["GCP", "Azure"],
         databases: ["Mongo", "MySql", "sqlite", "phpMyAdmin"]
     },
     currentProject: "I am currently working on several projects, mainly scripts for FiveM",
