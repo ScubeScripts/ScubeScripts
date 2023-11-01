@@ -8,6 +8,7 @@
 - 📫 How to reach me: [Via Discord](https://discord.gg/Mqgewse3Yc)
 - ⚡ Fun fact: If the code works, don't touch it again.
 - 📚 4 Words that best sum me up: Music, Series, Chaos, Memes.
+- 👓 Teacher from [Skull-Code](https://github.com/Skull-Code)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
