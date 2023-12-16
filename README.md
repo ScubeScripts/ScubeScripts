@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on getting my shit together.
 - 🔮 What do I do? - Predict the future via computer science black magic.
-- 🌱 I am currently working on several projects, mainly scripts for FiveM
+- 🌱 I am currently working on various projects. Here is an overview of my FiveM [projects](https://github.com/users/ScubeScripts/projects/4/views/1)
 - 👯 I am looking for good series.
 - 📫 How to reach me: [Via Discord](https://discord.gg/Mqgewse3Yc)
 - ⚡ Fun fact: If the code works, don't touch it again.
